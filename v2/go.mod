@@ -6,7 +6,7 @@ require (
 	github.com/hako/durafmt v0.0.0-20200710122514-c0fb7b4da026
 	github.com/json-iterator/go v1.1.10
 	github.com/lib/pq v1.9.0
-	github.com/miekg/dns v1.1.35
+	github.com/miekg/dns v1.1.51
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/chaos-client v0.1.6
 	github.com/projectdiscovery/fdmax v0.0.3
